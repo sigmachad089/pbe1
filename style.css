@@ -1,0 +1,75 @@
+body{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+.zodiac h1{
+   font-size: 70px;
+}
+
+.zodiac h4{
+   font-size: 28px;
+}
+
+.zodiac h5{
+      margin-top: 50px;
+      margin-left: 80px;
+      font-size: 46px;
+}
+
+.zodiac h6{
+   font-size: 20px;
+   margin-left: 80px;
+}
+
+.zodiac p{
+   font-size: 16px;
+}
+
+
+.zodiac img{
+   margin-top: 2%;
+   margin-left: 15%;
+   width: 400px;
+   height: 450px;
+   float: flex;
+   border: 3px solid white;
+   margin-right: 350px;
+
+}
+
+nav{
+  background: #ffffff00;
+  height: 130px;
+  width: 100%;
+
+}
+
+nav img{
+    margin-top: 15px;
+    margin-left: 110px;
+}
+
+nav ul {
+  float: right;
+  margin-right: 30px;
+}
+
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 100px;
+}
+
+nav ul li a {
+  color: white;
+  font-size: 17px;
+  padding: 7px 13px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
